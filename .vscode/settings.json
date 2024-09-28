@@ -1,0 +1,7 @@
+{
+"yaml.schemas": {
+  "monaco_schema_folder/monaco-config.schema.json": "**/*config*.yaml",
+  "monaco_schema_folder/monaco-manifest.schema.json": "**/*manifest*.yaml",
+  "monaco_schema_folder/monaco-delete-file.schema.json": "**/*delete*.yaml"
+}
+}
