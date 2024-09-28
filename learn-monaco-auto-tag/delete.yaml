@@ -1,4 +1,3 @@
 delete:
-  - project: "auto-tag"
-    type: auto-tag
-    name: "DTServer"
+  - type: auto-tag
+    name: "DTServer-2"
