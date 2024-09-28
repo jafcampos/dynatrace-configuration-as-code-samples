@@ -7,8 +7,8 @@ environmentGroups:
       - name: environment1
         url:
           type: environment
-          value: DEMO_ENV_URL
+          value: DT_URL
         auth:
           token:
             type: environment
-            name: DEMO_ENV_TOKEN
+            name: DT_API_TOKEN

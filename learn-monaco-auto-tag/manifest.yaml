@@ -8,7 +8,7 @@
        environments:
          - name: development-environment
            url:
-             value: "https://<your-dynatrace-environment>.live.dynatrace.com"
+             value: "https://gqb44926.live.dynatrace.com"
            auth:
              token:
-               name: "devToken"
+               name: "DT_API_TOKEN"
